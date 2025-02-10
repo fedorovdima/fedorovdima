@@ -1,4 +1,4 @@
-## Hi there 👋
+Experienced **DevOps Engineer** with 10 years of experience and a strong background in **CI/CD automation, AWS, Kubernetes, Terraform**. Certified **Kubernetes Administrator (CKA)**. Passionate about **cloud infrastructure, automation, and deployment efficiency**. Strong background in **Linux administration**, scripting (**Bash, Python**), and container orchestration. Proven ability to optimize infrastructure costs and streamline DevOps workflows.
 
 <!--
 **fedorovdima/fedorovdima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
